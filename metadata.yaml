@@ -1,0 +1,44 @@
+_repo: The-monastery-of-Petschenga-b-Sketches-of-Russian-Lapland-from-historical-and-legendary-sourc__72118
+_version: 0.0.1
+alternative_title: Klosteret i Petschenga. English
+contributor:
+  translator:
+    agent_name: Repp, Hill
+    gutenberg_agent_id: '56547'
+    url: http://www.gutenberg.org/2009/agents/56547
+creator:
+  author:
+    agent_name: Friis, J. A. (Jens Andreas)
+    alias: Friis, Jens Andreas
+    birthdate: 1821
+    deathdate: 1896
+    gutenberg_agent_id: '36443'
+    url: http://www.gutenberg.org/2009/agents/36443
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jens_Andreas_Friis
+    - https://fi.wikipedia.org/wiki/Jens_Andreas_Friis
+description: ''
+gutenberg_issued: '2023-11-13'
+identifiers:
+  gutenberg: '72118'
+  lccn: '32015470'
+language: en
+pgterms:marc904: https://archive.org/details/monasteryofpetsc00friiiala/page/n5/mode/2up
+pgterms:marc905: 20200410113318friis
+pgterms:marc906: '1896'
+pgterms:marc907: GB
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive/American Libraries.)
+publication_note: '  $aLondon :$bElliot Stock, $c1896.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Petschenga (Monastery)'
+- !lcsh 'Legends -- Lapland'
+- !lcc 'BX'
+- GITenberg
+title: 'The monastery of Petschenga : $b Sketches of Russian Lapland (from historical
+  and legendary sources)'
+url: http://www.gutenberg.org/ebooks/72118
